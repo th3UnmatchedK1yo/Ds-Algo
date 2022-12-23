@@ -47,3 +47,6 @@ int main()
     cout << maxSum(arr, n, k);
     return 0;
 }
+
+
+/* cai nay xai 2 pointer cung dc */
